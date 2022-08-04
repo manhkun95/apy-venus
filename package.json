@@ -1,0 +1,25 @@
+{
+  "name": "apy-venus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bignumber.js": "^9.0.2",
+    "web3": "^1.7.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manhkun95/apy-venus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manhkun95/apy-venus/issues"
+  },
+  "homepage": "https://github.com/manhkun95/apy-venus#readme"
+}
