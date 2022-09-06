@@ -2,7 +2,7 @@ const Web3 = require('web3');
 const BigNumber = require('bignumber.js');
 const axios = require('axios');
 
-const web3 = new Web3('https://ropsten.infura.io/v3/bd1c559c45374ad093300196fd6bd762');
+const web3 = new Web3('https://ropsten.infura.io/v3/');
 
 const DelegatorABI = require('./abis/Delegator.json');
 const vBTCBAddress = "0x2973e69b20563bcc66dC63Bde153072c33eF37fe";
